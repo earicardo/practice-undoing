@@ -1,2 +1,5 @@
 ###Undo Examples
-###goals
+
+add + commit
+
+git commit -am "message"
