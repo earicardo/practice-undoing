@@ -1,5 +1,15 @@
-###Undo Examples
+# Undo Examples
 
-add + commit
+## Objectives
+* Shortcuts
+* Reset
+* Reset flavors
+* Staging by hunk
 
-git commit -am "message"
+# Notes / Resources
+* git commit -am "message"
+* git reset
+* git reset HEAD
+* git reset HEAD [file]
+* git reset --hard
+* git push -f [remote] [branch]
